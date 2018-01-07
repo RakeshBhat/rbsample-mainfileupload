@@ -9,6 +9,7 @@ Also have Hystrix fallback
 stores multi-part file with filename
 
 Resources
+
 http://www.baeldung.com/spring-scheduled-tasks
 https://spring.io/guides/gs/scheduling-tasks/
 https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
@@ -24,5 +25,13 @@ https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
 https://stackoverflow.com/questions/29985205/using-requestline-with-feign
 http://tutorials.jenkov.com/java-util-concurrent/atomicinteger.html
 https://stackoverflow.com/questions/36407575/how-to-get-files-from-resources-folder-spring-framework
-
 https://github.com/Netflix/Hystrix/wiki/Configuration
+
+>Exception Handling/System Failure
+
+1- Self-heal
+2- Circuit Breaker
+3- Fall Back
+4- Error / Exception Handling
+5- Request / Response Handling
+6- Transaction Management
